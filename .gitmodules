@@ -1,0 +1,3 @@
+[submodule "vendor\\GameEngine"]
+	path = vendor\\GameEngine
+	url = https://github.com/OneLoneCoder/videos.git
